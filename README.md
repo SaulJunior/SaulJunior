@@ -6,6 +6,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SaulJunior&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=SaulJunior&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaulJunior&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulJunior&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 <div align="center"> 
 <a href = "mailto:saulrodriguesdutra79@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/saul-rodriguesdutra-8343a926b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 

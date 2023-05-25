@@ -8,7 +8,10 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=SaulJunior&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaulJunior&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulJunior&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PEDROLDLIM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <div align="center"> 

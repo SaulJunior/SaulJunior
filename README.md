@@ -26,7 +26,7 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block"><br>
 <img align="center" alt"HTML%" src="https://img.shields.io/badge/postgres-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117" />
 </div><br>
 
